@@ -12,4 +12,4 @@
 	url = https://github.com/cyprienh/axi_llc.git
 [submodule "cva6-sdk"]
 	path = cva6-sdk
-	url = https://github.com/cyprienh/cva6-sdk.git
+	url = https://git.s3g-labs.trt/u1206/cva6-sdk
